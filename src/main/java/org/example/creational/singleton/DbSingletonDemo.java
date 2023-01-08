@@ -13,6 +13,8 @@ public class DbSingletonDemo {
         System.out.println(instance == instance2);
 
 
+
+
     }
 
 }
